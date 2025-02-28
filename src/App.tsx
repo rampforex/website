@@ -104,7 +104,7 @@ function App() {
             Ramp Forex is a Singapore-based global fintech company specializing in digital currency on/off-ramp and exchange services.
           </p>
           <a 
-            href="mailto:SERVICE@RAMP.FOREX" 
+            href="mailto:service@ramp.forex" 
             className="inline-block bg-gradient-to-r from-brand-orange/90 to-brand-orange hover:from-brand-orange hover:to-brand-orange/90 text-brand-blue font-semibold py-3 px-8 rounded-lg transition-all duration-300 hover:shadow-lg"
           >
             CONTACT US
