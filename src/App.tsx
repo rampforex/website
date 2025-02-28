@@ -1,6 +1,7 @@
 import React from 'react';
 import { Fuel, Users, Repeat } from 'lucide-react';
 import logo from './assets/LOGO-RampForex(500_250).svg';
+import solutionImg from './assets/Solution.png';
 
 function ForexIcon() {
   return (
@@ -152,7 +153,7 @@ seamless transactions.`}
           <h2 className="text-3xl font-bold text-white mb-12 text-center tracking-wide">UNLOCK GLOBAL DIGITAL FINANCE WITH US NOW!</h2>
           <div className="flex justify-center items-center">
             <img 
-              src="src/assets/Solution.png" 
+              src={solutionImg} 
               alt="Ramp Forex Solution" 
               className="max-w-full h-auto w-[800px]"
             />
